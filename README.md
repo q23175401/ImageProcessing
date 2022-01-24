@@ -1,5 +1,5 @@
 # Introduction
-This is an building image processing algorithm from scratch project.
+This is a building image processing algorithm from scratch project.
 
 Also an implementation of a simple photoshop-like application for acnes and freckles removal.
 
